@@ -36,7 +36,6 @@ python -m ipykernel install --user --name divergence-frontier-bounds
 * `metrics.py`: code to compute divergence frontiers and frontier integrals.
 * `utils.py`: utility functions.
 * `experiments.ipynb`: Jupyter notebook to run experiments and produce plots.
-* `parsed_outputs`: 
 * `results/`: experimental results.
 
 
