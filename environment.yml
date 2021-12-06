@@ -1,0 +1,16 @@
+name: divergence-frontier-bounds
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - ipykernel=6.4.1
+  - matplotlib=3.5.0
+  - numpy=1.19.2
+  - pandas=1.3.4
+  - pip
+  - python=3.8
+  - scikit-learn=1.0.1
+  - scipy=1.6.2
+  - faiss-cpu=1.7.1
+  - pip:
+    - pathos==0.2.8
