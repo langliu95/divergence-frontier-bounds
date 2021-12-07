@@ -1,7 +1,7 @@
 # divergence-frontier-bounds
 
 This repository contains the code to reproduce the experiments 
-in this [paper](https://proceedings.neurips.cc/paper/2021/file/6bf733bb7f81e866306e9b5f012419cb-Supplemental.pdf).
+in this [paper](https://proceedings.neurips.cc/paper/2021/file/6bf733bb7f81e866306e9b5f012419cb-Supplemental.pdf) at NeurIPS 2021.
 The paper studies the sample complexity of the evaluation framework—divergence frontiers—for generative models.
 It also introduces frontier integrals as summary statistics of divergence frontiers.
 
